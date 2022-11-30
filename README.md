@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shift321](github.com/shift321)
 
-- 💬 Ask me about **Python, FastAPI**
+- 💬 My telegram t.me/shift123
 
 - 📫 How to reach me **shifter0071@gmail.com**
 
