@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shift321&label=Profile%20views&color=0e75b6&style=flat" alt="shift321" /> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/shift321](github.com/shift321)
+- 👨‍💻 All of my projects are available at [github.com/shift321](https://github.com/shift321)
 
 - 💬 My telegram [t.me/shift123](https://t.me/shift123)
 
