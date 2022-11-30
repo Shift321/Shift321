@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shift321](github.com/shift321)
 
-- 💬 My telegram [[t.me/shift123](https://t.me/shift123)](telegram)
+- 💬 My telegram [t.me/shift123](https://t.me/shift123)
 
 - 📫 How to reach me **shifter0071@gmail.com**
 
